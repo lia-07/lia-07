@@ -1,2 +1,3 @@
+
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; opacity: 0.75; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-repeat: repeat; width: 100vw; background-color: #FFFCF0; background: url('data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'500\' height=\'500\'><filter id=\'noise\' x=\'0\' y=\'0\'><feTurbulence type=\'fractalNoise\' baseFrequency=\'0.65\' numOctaves=\'3\' stitchTiles=\'stitch\'/><feBlend mode=\'screen\'/></filter><rect width=\'500\' height=\'500\' filter=\'url(#noise)\' opacity=\'0.5\'/></svg>');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/lia-07/lia-07/main/bg.jpg');]{x0000}$}
