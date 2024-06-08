@@ -15,3 +15,5 @@ Some projects I've worked on:
 - [LitePipe](https://github.com/lia-07/litepipe) - A super simple CI/CD tool written in Go
 
 Between my part time job and school I don't have much time to work on projects, unfortunately.
+
+![img](https://github.com/lia-07/lia-07/assets/107384739/d942c743-08ca-4023-96f1-9bd8890905eb)
